@@ -2,7 +2,611 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f49d848-1514-449b-be1b-89354bc8290c" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$articles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$position.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063#menuAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063#rightSlideBarAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063#routAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\639f02f92973bb01f82b78218633600e6d2f0914.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\86671894a051a815febb0404407fffdb26539dee$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\86671894a051a815febb0404407fffdb26539dee$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\86671894a051a815febb0404407fffdb26539dee$role.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\86671894a051a815febb0404407fffdb26539dee$users.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\86671894a051a815febb0404407fffdb26539dee.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\949c61e98cbc5f60dff9dde1a4811e9506e69890#loginAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\949c61e98cbc5f60dff9dde1a4811e9506e69890#logoutAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\949c61e98cbc5f60dff9dde1a4811e9506e69890#securityCheckAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\949c61e98cbc5f60dff9dde1a4811e9506e69890.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608$articles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\aa3b17a06c54069051111edd177f4b93a6b0ac40#toolbarAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\aa3b17a06c54069051111edd177f4b93a6b0ac40.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b845c5c739e4153a16d583428d081473af665bae$email.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b845c5c739e4153a16d583428d081473af665bae$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b845c5c739e4153a16d583428d081473af665bae$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b845c5c739e4153a16d583428d081473af665bae$password.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b845c5c739e4153a16d583428d081473af665bae$roles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b845c5c739e4153a16d583428d081473af665bae$salt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b845c5c739e4153a16d583428d081473af665bae$username.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b845c5c739e4153a16d583428d081473af665bae.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#__toString.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#addArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getAbsolutePath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getAbsolutePathActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getAbsoluteThumbPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getAbsoluteThumbPathActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getArticles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getFile.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getFileActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getImage.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getImageActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getIsActiveTypes.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getIsSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getName.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getParentId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getWebPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getWebPathActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#preUpload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#preUploadActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#removeArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#removeUpload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#removeUploadActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setFile.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setFileActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setImage.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setImageActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setIsSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setName.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setParentId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#upload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#uploadActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$articles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$file.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$fileActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$image.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$imageActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$isSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$parentId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$temp.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$tempActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$url.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\e0b13be4afb56b362119227d46cf6fc9178304f1#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\e0b13be4afb56b362119227d46cf6fc9178304f1#rootAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\e0b13be4afb56b362119227d46cf6fc9178304f1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#__toString.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#addSpecialGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#addTag.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getAbsolutePath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getAbsoluteThumbPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getDateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getDateStart.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getFile.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIdGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getImage.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIsActiveTypes.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIsSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIsSpecialTypes.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getSortDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getSpecialGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getTags.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getTitle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getViews.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getWebPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#preUpload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#removeSpecialGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#removeTag.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#removeUpload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setDateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setDateCreatedValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setDateStart.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setFile.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setIdGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setImage.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setIsSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setSortDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setTitle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setViewValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setViews.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#upload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$dateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$dateStart.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$description.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$file.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$groupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$idGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$image.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$isSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$sortDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$specialGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$tags.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$temp.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$title.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$url.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$views.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\annotations\faf888e895261330ec797295c9841fb14c2ca842.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\appDevDebugProjectContainer.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\appDevDebugProjectContainer.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\appDevDebugProjectContainer.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\appDevDebugProjectContainerCompiler.log" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\appDevUrlGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\appDevUrlGenerator.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\appDevUrlMatcher.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\appDevUrlMatcher.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\assetic\config\4\43a80f0e087752a2d4724591f85aa0e1.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\assetic\routing.yml" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\classes.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\classes.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\classes.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\doctrine\orm\Proxies\__CG__CMSAdminBundleEntityGroupArticle.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\1e\f0\daf01e" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\30\b3\05b330" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\31\ac\dbac31" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\35\d8\97d835" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\47\e7\61e747" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\4d\de\42de4d" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\50\b8\57b850" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\5b\8b\618b5b" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\7c\cf\0bcf7c" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\b4\c7\0ec7b4" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\ce\d6\d3d6ce" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\d6\41\3e41d6" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\e9\75\2f75e9" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\profiler\index.csv" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\0f\da\15008bf0864daf82d197ce19d6beba63ef19dbc20e19188cba01cede3bbc.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\20\27\6e55ac5509559a93fe7705d3040523974317419e2eaad2df4ae9dc3e90cc.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\28\8d\e632bfaf569e7d98cd05ed91562236ddd99a995c57ccc6f47b1c163557a0.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\3f\0a\30ab2304ad426fea5a2b0d9aba92e839a3921d0cce5648ef4d262078c7ac.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\40\c8\c9bd401b0922cbf514d856d86a956c271eb535919b18f4fd6876f1461083.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\45\f9\b1a2f948b93ca9a6a03a7fde4c435e1d75bcf1d238e329403d69abb38e0d.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\4b\40\9147ef547a2a9bd38bf27f6769d1ba094ad4c6d7ce5dd9b0c5bcf2f84926.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\4f\ba\b154687c1485a6f27d05dabf94de89b39f4fe2d10f845e9847bb739a93f8.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\69\6d\9de7d41aa464eae710a9a67705fa4d206fc75082483a3f7d615350e7908c.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\6c\13\57a90c38561dc6e55f6d56f9103a2fe432049c32c380095b6a3abb91358c.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\73\b3\744b1ab86c4258740e2b85de457bcd74ed234418942eee792965939b7a60.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\78\b6\c97c9cfab4f3d9f86d928f660ffc0d3f6dc3133d225ea66a68684eeea897.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\8d\34\b09e96d25458b574cf6622aa37a3af4eb72c71ae69fb91faab416fa3bac2.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\8d\c7\c4387c3a13e51e5c7b901b7ca168838f7fedf381dd65dda3aed130d98d0e.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\a0\35\c2a3c3eb1696d8a05ca021fe98debfbc9655b799b26cc1f2bb28e70df851.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\b2\a2\0fa2a550c05cac04128e03da53ece52d655e063d3d5df1243c36afc7a6eb.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\c1\59\aab461695db177f7a661c6d3358051f623373b594f9eaf6519d1574e84ea.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\cd\f0\befc2f4fa30f091195b8a9165b540e5a30110a2e06d2c203b1c8d903dc44.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\e9\89\c97d4048aeb1c8d6b31dd9a01dc684ccc57a4570f7734d51f48020e692d1.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\f5\b3\60ad7d2b342ec4d2224b742ce5d1b33ff2090612d6087989edcd96ae6c41.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\f7\49\bb787693f867960652e4d191b1f99ccdf4f9e52d1abe664339ae120ffc47.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\f8\cc\94ddc5ad6115b46953c9c2d1a081545a78f90b20ccde9462978a9f4df777.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\f9\1c\616d607ec3e063623c850969b8a9e4fd1b4ebc98342e490404d1d5406edf.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\fa\b4\12101c63d5cab85542ed4062f5bcf9546f7f183ac1cfd5afd1cf72355bf5.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\dev\twig\fe\d4\224070c0523059dc6ce4fd165a146fa88c578ba874e20e3276925dece56c.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\07da8a023e8bef836dbb187435eb10532781b702.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71#geValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71#getId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71#getName.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71#getPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71#setName.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71#setPathValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71#setUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71#setValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71$path.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71$value.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\11e5cc8c445175cb8577c1e01206800898b6cd71.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\1560188b5603390fc1d5765bcf8d4c40c780936c.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\29fa4561aba08ae47693a99256a4624cbd708a2c.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\2ba80487b888169bf492f1fc9758653384cdfdee.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$articles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f$position.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\33076c844eee4f88919bf2915e2272fe55c53f9f.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\597877fc1359850fa8786ead82dcc8f6f491d628#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\597877fc1359850fa8786ead82dcc8f6f491d628.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063#menuAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063#rightSlideBarAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063#routAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\5cb9e81d60317363e5c0eb1232662c22a9ef7063.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\639f02f92973bb01f82b78218633600e6d2f0914.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\71f696d5b1eeec9c0b698dba0e5a3ec8cd6e78a4.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getDateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getDateUpdate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getIsActiveTypes.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getKeywords.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getOptions.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getSortDesciption.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getTitle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#getUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setDateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setDateCreatedValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setDateUpdate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setDateUpdateValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setKeywords.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setOptions.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setSortDesciption.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setTitle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5#setUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$dateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$dateUpdate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$description.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$keywords.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$options.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$sortDesciption.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$title.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5$url.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7812439a9cab9e4b628863ca21c74924f3fbf5a5.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\7bc3f37a1a24046886c7adaeb3329d28c9a18318.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\85a4bea4c0c3cd86498d4599fa0ce5444d38c7d9.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\86671894a051a815febb0404407fffdb26539dee$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\86671894a051a815febb0404407fffdb26539dee$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\86671894a051a815febb0404407fffdb26539dee$role.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\86671894a051a815febb0404407fffdb26539dee$users.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\86671894a051a815febb0404407fffdb26539dee.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\89efb6f9d61575905afeca6fbc68e11e8db0c8ff.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\949c61e98cbc5f60dff9dde1a4811e9506e69890#loginAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\949c61e98cbc5f60dff9dde1a4811e9506e69890#logoutAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\949c61e98cbc5f60dff9dde1a4811e9506e69890#securityCheckAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\949c61e98cbc5f60dff9dde1a4811e9506e69890.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\963761d7acbfa090ef166df3c5bb757d4d7d938b.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608$articles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\a873197a59d5e39ff202406a9f28bf8423fcd608.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b845c5c739e4153a16d583428d081473af665bae$email.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b845c5c739e4153a16d583428d081473af665bae$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b845c5c739e4153a16d583428d081473af665bae$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b845c5c739e4153a16d583428d081473af665bae$password.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b845c5c739e4153a16d583428d081473af665bae$roles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b845c5c739e4153a16d583428d081473af665bae$salt.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b845c5c739e4153a16d583428d081473af665bae$username.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b845c5c739e4153a16d583428d081473af665bae.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#__toString.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#addArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getAbsolutePath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getAbsolutePathActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getAbsoluteThumbPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getAbsoluteThumbPathActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getArticles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getFile.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getFileActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getImage.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getImageActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getIsActiveTypes.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getIsSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getName.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getParentId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getWebPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#getWebPathActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#preUpload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#preUploadActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#removeArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#removeUpload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#removeUploadActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setFile.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setFileActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setImage.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setImageActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setIsSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setName.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setParentId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#setUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#upload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6#uploadActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$articles.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$file.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$fileActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$image.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$imageActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$isSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$name.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$parentId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$temp.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$tempActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6$url.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\b96cb17360d4fc1477991222791e291bb05ab1e6.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ccf8e6d9b167394378b62be945559224fec445ff.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\d88fa6eb03db0277a201aa119f91c9b8cec6161b.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\dc8d20af53abc1b17020ef136ab7603d865022a1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\e0b13be4afb56b362119227d46cf6fc9178304f1#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\e0b13be4afb56b362119227d46cf6fc9178304f1#rootAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\e0b13be4afb56b362119227d46cf6fc9178304f1.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\e8cd0b9bcd842f4fd21ececeda0358619d487560.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#__toString.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#addSpecialGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#addTag.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getAbsolutePath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getAbsoluteThumbPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getDateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getDateStart.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getFile.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIdGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getImage.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIsActiveTypes.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIsSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getIsSpecialTypes.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getSortDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getSpecialGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getTags.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getTitle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getViews.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#getWebPath.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#preUpload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#removeSpecialGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#removeTag.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#removeUpload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setDateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setDateCreatedValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setDateStart.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setFile.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setIdGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setImage.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setIsActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setIsSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setSortDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setTitle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setViewValue.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#setViews.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70#upload.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$dateCreate.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$dateStart.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$description.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$file.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$groupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$idGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$image.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$isActive.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$isSpecial.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$sortDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$specialGroupArticle.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$tags.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$temp.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$title.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$url.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70$views.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\ea2226f888dc316d018fd6f93e8485f61e815e70.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#createCreateForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#createEditForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#deleteAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#editAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\annotations\faf888e895261330ec797295c9841fb14c2ca842.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\appProdProjectContainer.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\appProdUrlMatcher.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\classes.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\classes.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\doctrine\orm\Proxies\__CG__CMSAdminBundleEntityArticle.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\doctrine\orm\Proxies\__CG__CMSAdminBundleEntityCmsPage.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\doctrine\orm\Proxies\__CG__CMSAdminBundleEntityGroupArticle.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\doctrine\orm\Proxies\__CG__CMSAdminBundleEntityRole.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\doctrine\orm\Proxies\__CG__CMSAdminBundleEntitySetting.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\doctrine\orm\Proxies\__CG__CMSAdminBundleEntitySpecialGroupArticle.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\doctrine\orm\Proxies\__CG__CMSAdminBundleEntityTag.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\doctrine\orm\Proxies\__CG__CMSAdminBundleEntityUser.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\twig\0b\a5\6243d591f9697ec99f7550527801f6b6e21d8ffd0c2663bf150cf49cb484.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\twig\36\fb\0d694ac0abcf8c3ed8931cbf930f662e5ce0269d9b498c7c256508ff7249.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\twig\37\21\2d0b0411f1af7d481efa4da47bdebfc97681de790fbda602b8d5b5e7cded.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\twig\4b\40\9147ef547a2a9bd38bf27f6769d1ba094ad4c6d7ce5dd9b0c5bcf2f84926.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\twig\94\2a\ffb435c24d55a101bf08908826ab0ebfc1e475a139e613076859e66016ac.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\twig\c7\35\aab76b609804739e07cf4a490b7911de24da1657051aba951a67a4750d4e.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\cache\prod\twig\ff\6d\a8b2f02516baff96c31be404754fdbf3d7991ceff84201f69a356c6d5c3b.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\logs\dev.log" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\info\app\logs\prod.log" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="info.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,19 +629,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1649">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="371" selection-end="371" vertical-scroll-proportion="-3.0392158" vertical-offset="100" max-vertical-offset="2210">
+            <state line="8" column="10" selection-start="197" selection-end="197" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="2210">
               <folding />
             </state>
           </provider>
@@ -46,7 +641,25 @@
       <file leaf-file-name="parameters.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="21" selection-start="304" selection-end="304" vertical-scroll-proportion="0.2319236" vertical-offset="0" max-vertical-offset="733">
+            <state line="14" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="0.32380953" vertical-offset="0" max-vertical-offset="735">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="73" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_dev.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -71,6 +684,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+        <option value="$PROJECT_DIR$/web/config.php" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
       </list>
     </option>
@@ -182,8 +796,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -198,27 +813,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1554" height="916" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1554" height="916" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2533512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -233,96 +848,97 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/.htaccess">
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="33" selection-start="32" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="733">
+        <state line="14" column="0" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app_dev.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="811" selection-end="811" vertical-scroll-proportion="0.40876946" vertical-offset="0" max-vertical-offset="707">
+        <state line="18" column="0" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="155" selection-end="155" vertical-scroll-proportion="0.22014388" vertical-offset="0" max-vertical-offset="3349" />
+      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="31" selection-start="155" selection-end="155" vertical-scroll-proportion="0.22014388" vertical-offset="0" max-vertical-offset="3349">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="733">
-          <folding />
-        </state>
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="733" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/doctrine/dbal/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="6" selection-start="730" selection-end="730" vertical-scroll-proportion="0.48090523" vertical-offset="0" max-vertical-offset="707">
-          <folding />
-        </state>
+        <state line="20" column="6" selection-start="730" selection-end="730" vertical-scroll-proportion="0.48090523" vertical-offset="0" max-vertical-offset="707" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.2319236" vertical-offset="0" max-vertical-offset="733">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.2319236" vertical-offset="0" max-vertical-offset="733" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.092769444" vertical-offset="0" max-vertical-offset="733">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.092769444" vertical-offset="0" max-vertical-offset="733" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="32" selection-start="248" selection-end="248" vertical-scroll-proportion="0.20873123" vertical-offset="0" max-vertical-offset="733" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="179" selection-end="179" vertical-scroll-proportion="0.13915417" vertical-offset="0" max-vertical-offset="733" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="221" selection-end="221" vertical-scroll-proportion="0.20873123" vertical-offset="0" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
+        <state line="33" column="41" selection-start="970" selection-end="970" vertical-scroll-proportion="0.27830833" vertical-offset="357" max-vertical-offset="1649" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="2" selection-start="441" selection-end="441" vertical-scroll-proportion="0.3125884" vertical-offset="0" max-vertical-offset="707" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="371" selection-end="371" vertical-scroll-proportion="-3.0392158" vertical-offset="100" max-vertical-offset="2210">
+        <state line="8" column="10" selection-start="197" selection-end="197" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="2210">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+    <entry file="file://$PROJECT_DIR$/web/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="248" selection-end="248" vertical-scroll-proportion="0.20873123" vertical-offset="0" max-vertical-offset="733">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="349" selection-end="349" vertical-scroll-proportion="0.32469305" vertical-offset="0" max-vertical-offset="765">
+        <state line="15" column="73" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="304" selection-end="304" vertical-scroll-proportion="0.2319236" vertical-offset="0" max-vertical-offset="733">
+        <state line="14" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="0.32380953" vertical-offset="0" max-vertical-offset="735">
           <folding />
         </state>
       </provider>
